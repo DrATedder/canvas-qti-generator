@@ -14,7 +14,7 @@ A Java desktop application that converts a structured Excel (.xls) file into a C
 
 ## Excel Format
 
-For an example input file, see [Example_sheet.xls]().
+For an example input file, see [Example_sheet.xls](Example_sheet.xls).
 
 | Cell | Purpose |
 |------|----------|
