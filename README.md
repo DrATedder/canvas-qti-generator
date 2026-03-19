@@ -1,3 +1,4 @@
+![Banner Image](https://github.com/DrATedder/canvas-qti-generator/blob/main/CANVAS_QTI_generator_header.png)
 # Canvas QTI Generator
 
 A Java desktop application that converts a structured Excel (.xls) file into a Canvas-compatible IMS QTI 1.2 question bank ZIP package.
